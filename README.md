@@ -1,2 +1,2 @@
 # 100days-of-code-Banker-Roulette
- This program can determine whoever pays for everybody at the end of the meal
+ A program which determines whoever pays for the bill at the end of the meal.
